@@ -1,0 +1,84 @@
+*   {
+    font-family: Halvetica;
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-right {
+    background-color: rgb(146, 184, 112);
+    text-align: center;
+    width: 50%;
+    height: 170px;
+    float: right;
+}
+
+.top-left {
+    background-color: rgb(146, 184, 112);
+    text-align: center;
+    width: 50%;
+    height: 170px;
+    float: left;
+}
+
+.banner {
+    background-color: rgb(100, 61, 49);
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding: 5px;
+    clear: both;
+}
+
+
+.footer {
+    background-color: rgb(100, 61, 49);
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding: 5px;
+    clear: both;
+}
+
+.left {
+    background-color: rgb(146, 184, 112);
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+
+.right {
+    background-color: rgb(146, 184, 112);
+    width: 50%;
+    height: 450px;
+    float: right;
+}
+
+#zamowienie {
+    background-image: url('cukierki1.jpg');
+    padding-right: 30px;
+    padding-bottom: 120px;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+table{
+    border: 2px dashed green;
+    margin: 30px;
+    padding: 20px;
+}
+
+tr,td {
+    border: 2px dashed green;
+    margin: 30px;
+    padding: 20px;
+}
+
+h1 {
+    letter-spacing: 20px;
+    font-size: 250%;
+}
+
+
+
+
